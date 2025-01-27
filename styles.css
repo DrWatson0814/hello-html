@@ -1,5 +1,35 @@
 .top {
-    background-image: url("StockCake-Gothic Geometric Pattern_1737848629.jp");
-    border: 3px solid mediumblue;
+    margin-top:0.5in;
+    margin-bottom: 0.2Sin;
+    padding-bottom: -0.5in;
+    background-color: dimgrey;
     text-align: center;
-    }
+    background-color: blue;
+    align-content:space-around;
+}
+body {
+    margin-top: -35px;
+    border-top-width: -5px;
+    background: radial-gradient(circle at 100%, #3a3974, #333 50%, #eee 75%, #2f46af 75%);
+}
+.hobbies {
+    font-size: -50px;
+    font-style: oblique;
+    margin-left: -3.5px;
+    margin-right: -3.5px;
+    border: 8px double midnightblue;
+}
+
+.goals {
+    font-size: .3in;
+    font-style: oblique;
+    margin-left: -3.5px;
+    margin-right: -3.5px;
+    border: 8px double midnightblue;
+}
+
+#name {
+    color: whitesmoke;
+    font-size: 0.75in;
+    font-style: italic;
+}
